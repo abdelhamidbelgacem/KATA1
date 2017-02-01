@@ -1,0 +1,2 @@
+# KATA1
+KATAJAVA8
